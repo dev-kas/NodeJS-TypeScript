@@ -11,7 +11,7 @@ git clone https://github.com/dev-kas/NodeJS-TypeScript.git MyNodeJS-TypeScript-P
 Install dependencies via
 
 ```sh
-npm install --legacy-peer-deps
+npm install
 ```
 
 Build via
